@@ -169,6 +169,6 @@ Changes will be posted within the application and/or on our website. Continued u
 If you have questions regarding this Privacy Policy, please contact us:
 
 Ant B2B Supplier App
-Email: support@yourdomain.com
-Website: yourdomain.com
+Email: anttechnology0@gmail.com
+Website: https://ant.et
 Address: Addis Ababa, Ethiopia
